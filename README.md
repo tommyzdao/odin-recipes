@@ -1,1 +1,2 @@
 # odin-recipes
+The current project is called "recipes". I will be building a basic recipe website. Once complete I hope to have properly demonstrated my ability with the basics of html and proved that I am able to work with git and github.
