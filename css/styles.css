@@ -1,0 +1,21 @@
+.title {
+    color: black;
+    background-color: peachpuff;
+    text-align: center;
+    margin-top:0px;
+}
+
+.risotto-button {
+    background-color: chocolate;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cocopan-button {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.frtoast-button {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: chocolate;
+}
